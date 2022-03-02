@@ -1,0 +1,5 @@
+Mobila,126,Pat matrimonial,750.0,2020,Pat,lemn masiv
+Bijuterie,127,Bratara,5.0,2020,Plastic,False
+Tablou,128,Pictura exceptionala,5000.0,2020,Pictor priceput,tempera
+Mobila,129,Fotoliu stricat,30.0,1989,Fotoliu,piele
+Tablou,103,Pictura moderna,257.0,2018,Necunoscut,ulei
